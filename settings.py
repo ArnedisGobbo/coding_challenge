@@ -1,0 +1,1 @@
+DB_FILEPATH = './db/ephemeris.db'
